@@ -1,4 +1,4 @@
-package com.aitech.cirta.pattern;
+package com.aitech.cirta.pattern.singleton;
 
 /**
  * Class principal de test

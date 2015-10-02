@@ -1,4 +1,4 @@
-package com.aitech.cirta.pattern;
+package com.aitech.cirta.pattern.singleton;
 
 /**
  * Defintion du pattern Singleton ( technique du double checking locking )
